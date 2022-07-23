@@ -1,5 +1,5 @@
 {
-  "homepage" : "http://mouniaMohamedBelhaj.github.io/BookShop",
+  "homepage": "http://mouniaMohamedBelhaj.github.io/BookShop",
   "name": "reactfirebase",
   "version": "0.1.0",
   "private": true,
@@ -28,6 +28,7 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "CI= react-scripts build",
+    "dev-build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
