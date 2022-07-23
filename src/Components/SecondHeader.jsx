@@ -17,7 +17,7 @@ const secondHeader = ({books}) => {
                                                       <div className='book-info'>
                                                             <h4 className='bookname'>{Bookname}</h4>
                                                             <h4 className='author'>{Author}</h4>
-                                                            <p>{Description}</p>
+                                                            <p>{Description.length > 90 ? Description.substring(0,90) + '...'  : Description}</p>
                                                             <h4 className='price'>{Price}$</h4>
                                                       </div>
                                                 </article>
