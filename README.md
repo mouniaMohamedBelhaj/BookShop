@@ -1,1 +1,1 @@
-I madeed this project with ReactJS, JavaScript, CSS, Firebase, Git.
+We madeed this project with ReactJS, JavaScript, CSS, Firebase, Git.
